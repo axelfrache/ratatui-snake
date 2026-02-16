@@ -2,7 +2,7 @@
 
 A classic Snake game in Rust using [Ratatui](https://github.com/ratatui-org/ratatui) and [Crossterm](https://github.com/crossterm-rs/crossterm).
 
-![Demo](assets/demo.gif)
+<img src="assets/demo.gif" width="600" alt="Ratatui Snake Demo">
 
 ## Installation
 
