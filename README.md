@@ -1,12 +1,12 @@
-# Snake TUI
+# Ratatui Snake
 
 A classic Snake game in Rust using [Ratatui](https://github.com/ratatui-org/ratatui) and [Crossterm](https://github.com/crossterm-rs/crossterm).
 
 ## Installation
 
 ```bash
-git clone https://github.com/axelfrache/snake-tui
-cd snake-tui
+git clone https://github.com/axelfrache/ratatui-snake
+cd ratatui-snake
 cargo run
 ```
 

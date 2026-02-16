@@ -1,10 +1,10 @@
 [package]
-name = "snake-tui"
+name = "ratatui-snake"
 version = "0.1.0"
 edition = "2021"
 description = "A classic Snake game for the terminal, built in Rust with Ratatui."
 license = "MIT"
-repository = "https://github.com/axelfrache/snake-tui"
+repository = "https://github.com/axelfrache/ratatui-snake"
 readme = "README.md"
 keywords = ["snake", "tui", "game", "terminal", "ratatui"]
 categories = ["games", "command-line-utilities"]
