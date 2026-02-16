@@ -25,3 +25,7 @@ cargo run
 - TUI interface with Ratatui
 - Score tracking with best score persistence
 - Pause and restart functionality
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

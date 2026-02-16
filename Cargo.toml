@@ -2,6 +2,12 @@
 name = "snake-tui"
 version = "0.1.0"
 edition = "2021"
+description = "A classic Snake game for the terminal, built in Rust with Ratatui."
+license = "MIT"
+repository = "https://github.com/axelfrache/snake-tui"
+readme = "README.md"
+keywords = ["snake", "tui", "game", "terminal", "ratatui"]
+categories = ["games", "command-line-utilities"]
 
 [dependencies]
 ratatui = "0.29.0"
