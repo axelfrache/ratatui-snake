@@ -1,0 +1,27 @@
+# Snake TUI
+
+A classic Snake game in Rust using [Ratatui](https://github.com/ratatui-org/ratatui) and [Crossterm](https://github.com/crossterm-rs/crossterm).
+
+## Installation
+
+```bash
+git clone https://github.com/axelfrache/snake-tui
+cd snake-tui
+cargo run
+```
+
+## Controls
+
+| Key | Action |
+|-----|--------|
+| `↑` `↓` `←` `→` | Move |
+| `W` `A` `S` `D` | Alternative move (WASD) |
+| `Space` | Pause |
+| `R` | Restart |
+| `Esc` | Quit |
+
+## Features
+
+- TUI interface with Ratatui
+- Score tracking with best score persistence
+- Pause and restart functionality
